@@ -1,0 +1,20 @@
+.mv-back-vm_purple {
+  background-color: #541554;
+}
+.mv-back-mv_grey {
+  background-color: #F4EDE4;
+}
+.mv-back-mv_white {
+  background-color: #ECB22E;
+}
+.mv-back-mv_orange {
+  background-color: #FFFFFF;
+}
+
+.header {
+  background-color: #541554;
+  height: 80px;
+  width: 100%;
+  list-style: none;
+  display: flex;
+}/*# sourceMappingURL=index.css.map */

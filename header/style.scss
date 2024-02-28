@@ -1,0 +1,64 @@
+$white: #FFFFFF;
+$purple: #541554;
+$orange: #ECB22E;
+$grey: #F4EDE4;
+
+
+
+.mv-back{
+
+    &-vm_purple{  
+         background-color:#{$purple};
+    }
+
+    &-mv_grey{
+        background-color:#{$grey};
+    }
+
+    &-mv_white{
+        background-color:#{$orange};
+    }
+
+    &-mv_orange{
+        background-color:#{$white};
+    }
+
+
+}
+
+.header{
+  
+    background-color: #{$purple};
+    height: 80px;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    
+
+    
+}
+
+.color-texts{
+    
+    &-colortext_1 {
+    color:#{$white};
+    } 
+    &-colortext_2{
+    color: #{$orange};
+    }
+    &-colortext_3{  
+    color: #{$purple} ;
+    }
+     &-colortext_3 {
+    color: #{$purple};
+     }
+}
+
+
+.second_box{
+list-style: none;
+display: flex;
+}
+.list_header{
+    
+}
